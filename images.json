@@ -2,44 +2,44 @@
     "images": [
         {
             "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "imgLocation": "Houston",
+            "description": "Mansion",
+            "date": "01/08/2024"
         },
         {
             "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "imgLocation": "Italy",
+            "description": "Mansion",
+            "date": "04/07/2023"
         },
         {
             "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "imgLocation": "Los Angeles",
+            "description": "Mansion",
+            "date": "01/03/2025"
         },
         {
             "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
+            "imgLocation": "Los Angeles",
+            "description": "Penthouse",
             "date": "01/04/2016"
         },
         {
             "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
+            "imgLocation": "Miami",
+            "description": "Mansion",
             "date": "01/05/2016"
         },
         {
             "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
+            "imgLocation": "NYC",
+            "description": "Penthouse",
             "date": "01/06/2016"
         },
         {
             "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
+            "imgLocation": "Spain",
+            "description": "Villa",
             "date": "01/07/2016"
         },
         {
