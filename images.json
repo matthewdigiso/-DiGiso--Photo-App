@@ -22,61 +22,44 @@
             "imgPath": "img/places/greece.jpg",
             "imgLocation": "Los Angeles",
             "description": "Penthouse",
-            "date": "01/04/2016"
+            "date": "01/04/2025"
         },
         {
             "imgPath": "img/places/hungary.jpg",
             "imgLocation": "Miami",
             "description": "Mansion",
-            "date": "01/05/2016"
+            "date": "01/05/2024"
         },
         {
             "imgPath": "img/places/india.jpg",
             "imgLocation": "NYC",
             "description": "Penthouse",
-            "date": "01/06/2016"
+            "date": "01/06/2025"
         },
         {
             "imgPath": "img/places/italy.jpg",
             "imgLocation": "Spain",
             "description": "Villa",
-            "date": "01/07/2016"
+            "date": "01/07/2018"
         },
         {
             "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
+            "imgLocation": "France",
+            "description": "French Mansion",
             "date": "01/08/2016"
         },
         {
             "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
+            "imgLocation": "New Jersey",
+            "description": "New Jersey Home",
             "date": "01/09/2016"
         },
         {
             "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
+            "imgLocation": "Hawaii",
+            "description": "Hawaii Mansion",
             "date": "01/10/2016"
         },
-        {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
-        }
+       
   ]
 }
