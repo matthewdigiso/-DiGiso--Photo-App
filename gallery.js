@@ -6,7 +6,8 @@ const mWaitTime = 5000 // Timer interval in milliseconds
 $(document).ready(() => {
   $('.details').hide() // Hide details initially
 
-  // Call a function here to start the timer for the slideshow
+  startTimer()
+
 
   // Select the moreIndicator button and add a click event to:
   // - toggle the rotation classes (rot90 and rot270)
@@ -30,9 +31,16 @@ function fetchJSON () {
 
 // Function to swap and display the next photo in the slideshow
 function swapPhoto () {
+  if (mImages.length === 0) return
+
+  const currentImage = mImages[mCurrentIndex]
+
   // Access mImages[mCurrentIndex] to update the image source and details
   // Update the #photo element's src attribute with the current image's path
-  // Update the .location, .description, and .date elements with the current image's details
+  $('#photo').attr('src', currentImage.path)
+  // Update the .location, .description, and .date elements with the current image's details $('.location').text('Location: ' + currentImage.location)
+  $('.description').text('Description: ' + currentImage.description)
+  $('.date').text('Date: ' + currentImage.date)
 }
 
 // Advances to the next photo, loops to the first photo if the end of array is reached
